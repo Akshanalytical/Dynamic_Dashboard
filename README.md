@@ -41,7 +41,8 @@ Sales vs. budget gaps
 Positive and negative growth trends
 Yearly sales patterns
 Current-period performance compared
-Dashboard Preview (https://github.com/Akshanalytical/Dynamic_Dashboard/commit/ac05abc1532547ff47bf821450d6f4557a69de9c}
+**Dashboard Preview** 
+(https://github.com/Akshanalytical/Dynamic_Dashboard/blob/dbb0db3e820ce27729d9cc5259b6fc4ff87d630c/Dashboard.jpeg)
 
 
 with previous periods
