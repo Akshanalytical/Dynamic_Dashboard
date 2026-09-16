@@ -1,4 +1,5 @@
-Title : Sales & Budget Analysis Dashboard – Power BI
+**Sales & Budget Analysis Dashboard – Power BI**
+
 🚀 **Project Overview :** 
 
   How are actual sales performing against the budget?
